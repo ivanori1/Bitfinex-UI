@@ -1,0 +1,7 @@
+{
+  "logo": "#logo",
+  "demoButton": "[href='/demo']",
+  "tourButton": ".header__tour-button",
+  "nextButton" : ".hopscotch-next",
+  "tourTitle": ".hopscotch-title"
+}
