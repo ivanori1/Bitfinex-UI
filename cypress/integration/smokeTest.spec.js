@@ -13,13 +13,10 @@ describe("Smoke Test", () => {
   context("Trading Page", () => {
     it("Assert home page is loaded", () => {
       cy.openDemoPage();
-      cy.startTour();
     });
-  });
-  
-  context("Tour in demo page", () => {
-    it("Navigate tour on demo page", () => {
-      cy.navigateTour();
+    it("Start tour", () => {
+      cy.startTour();
+      cy.forEachNavigateTour();
     });
   });
 });

@@ -3,5 +3,9 @@
   "demoButton": "[href='/demo']",
   "tourButton": ".header__tour-button",
   "nextButton" : ".hopscotch-next",
-  "tourTitle": ".hopscotch-title"
+  "hopscotchBubble" : "[class='hopscotch-bubble animated tour-demo-tour']",
+  "tourTitle": ".hopscotch-title",
+  "stepsCounter":".hopscotch-bubble-number",
+  "hopscotchNext":"[class='hopscotch-nav-button next hopscotch-next']",
+  "fadeIn": ".fade-in-left"
 }

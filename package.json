@@ -1,0 +1,22 @@
+{
+  "name": "bitfinex-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanori1/Bitfinex-UI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanori1/Bitfinex-UI/issues"
+  },
+  "homepage": "https://github.com/ivanori1/Bitfinex-UI#readme",
+  "dependencies": {
+    "cypress": "^3.8.0"
+  }
+}
